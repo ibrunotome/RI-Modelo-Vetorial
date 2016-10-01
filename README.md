@@ -1,1 +1,2 @@
 # RI-Modelo-Vetorial
+Implementação de busca no modelo vetorial. Trabalho realizado no 7º período de Ciência da Computação no Instituto Federal de Minas Gerais (IFMG) - Campus Formiga para a disciplina de Recuperação da Informação (RI).
